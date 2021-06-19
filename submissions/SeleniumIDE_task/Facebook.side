@@ -26,7 +26,7 @@
       "command": "type",
       "target": "id=email",
       "targets": [],
-      "value": "07068550074"
+      "value": "admin@mailinator.com"
     }, {
       "id": "ebb33a95-e0f7-4a3b-a8cb-9ba86ddd6dbb",
       "comment": "",
@@ -47,7 +47,7 @@
       "command": "type",
       "target": "id=pass",
       "targets": [],
-      "value": "Oseyemi@10"
+      "value": "admin123"
     }, {
       "id": "888910c2-edd3-409d-940b-edb74d81767b",
       "comment": "",

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Deydam/Deydam.iml" filepath="$PROJECT_DIR$/Deydam/Deydam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Facebook_Login/Facebook_Login.iml" filepath="$PROJECT_DIR$/Facebook_Login/Facebook_Login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SinglePage_tasks.iml" filepath="$PROJECT_DIR$/.idea/SinglePage_tasks.iml" />
+    </modules>
+  </component>
+</project>

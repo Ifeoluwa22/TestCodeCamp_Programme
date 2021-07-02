@@ -37,8 +37,8 @@ public class KongaTests {
         Thread.sleep(4000);
 
         //input the login details
-        driver.findElement(By.id("username")).sendKeys("adeboyeifeoluwa1@gmail.com");   //Enter Username
-        driver.findElement(By.id("password")).sendKeys("T$G4#ZRzZYjvWDR");             //Enter password
+        driver.findElement(By.id("username")).sendKeys("nameofuser");   //Enter Username
+        driver.findElement(By.id("password")).sendKeys("password");             //Enter password
 
         //Click on the login button
         driver.findElement(By.xpath("/html/body/div[1]/div/section/div[4]/section/section/aside/div[2]/div/form/div[3]/button")).click();
